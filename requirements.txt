@@ -1,0 +1,11 @@
+Flask==0.9
+Flask-SQLAlchemy==0.16
+Flask-WTF==0.8.3
+Jinja2==2.7
+MarkupSafe==0.18
+MySQL-python==1.2.4
+SQLAlchemy==0.8.1
+WTForms==1.0.4
+Werkzeug==0.8.3
+ipython==0.13.2
+wsgiref==0.1.2
